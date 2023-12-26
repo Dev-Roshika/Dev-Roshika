@@ -10,12 +10,14 @@
 ## 𝑺𝒌𝒊𝒍𝒍𝒔 𝒂𝒏𝒅 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆
 
 
-- React Js
-- Node Js
-- HTML
-- CSS
-- JS
+- 𝑹𝒆𝒂𝒄𝒕 𝑱𝒔
+- 𝑵𝒐𝒅𝒆 𝑱𝒔
+- 𝑯𝑻𝑴𝑳
+- 𝑪𝑺𝑺
+- 𝑱𝑺
+ <br> <br>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dev-Roshika)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/roshika-nayanadhara/)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dev-Roshika) &nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/roshika-nayanadhara/)  
 
